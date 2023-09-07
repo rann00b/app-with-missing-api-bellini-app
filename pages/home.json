@@ -1,0 +1,65 @@
+{
+  "name": "home",
+  "type": "page",
+  "url": "/home",
+  "params": {},
+  "variables": [
+    {
+      "name": "prop4",
+      "type": "property",
+      "description": "",
+      "value": ""
+    },
+    {
+      "name": "prop2",
+      "type": "property",
+      "description": "",
+      "value": ""
+    },
+    {
+      "name": "prop3",
+      "type": "property",
+      "description": "",
+      "value": ""
+    },
+    {
+      "name": "obj",
+      "type": "object",
+      "description": "",
+      "properties": [
+        {
+          "name": "arr",
+          "type": "array",
+          "description": "",
+          "children": []
+        }
+      ]
+    },
+    {
+      "name": "swaggerPetstore",
+      "type": "open-api",
+      "id": "64f923c0fe49b874ab343cb1"
+    },
+    {
+      "name": "prop1",
+      "type": "property",
+      "description": "",
+      "value": ""
+    },
+    {
+      "name": "test",
+      "type": "method",
+      "description": "",
+      "body": "",
+      "invokeOnLoad": false,
+      "isAsync": false,
+      "returnType": {
+        "name": "any"
+      },
+      "parameters": [
+        "test"
+      ]
+    }
+  ],
+  "children": []
+}
