@@ -59,6 +59,11 @@
       "parameters": [
         "test"
       ]
+    },
+    {
+      "name": "swaggerPetstore1",
+      "type": "open-api",
+      "id": "64f923d1fe49b874ab343cb3"
     }
   ],
   "children": []
